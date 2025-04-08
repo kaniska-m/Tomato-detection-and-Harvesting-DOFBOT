@@ -30,6 +30,6 @@ This repository contains the implementation of an AI-driven **tomato harvesting 
 ## 🔧 Installation  
 Clone the repository:  
 ```bash
-git clone https://github.com/yourusername/Tomato-Ripeness-DOFBOT.git
+git clone https://github.com/kaniska-m/Tomato-Ripeness-DOFBOT.git
 cd Tomato-Ripeness-DOFBOT
 
